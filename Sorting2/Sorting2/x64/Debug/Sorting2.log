@@ -1,0 +1,7 @@
+﻿  binary_insertion_sort.cpp
+C:\Users\Fraps\source\repos\Sorting2\Sorting2\binary_insertion_sort.cpp(4,6): error C2995: void binary_insertion_sort(T [],int): шаблон функции уже определен
+  shaker_sort.cpp
+C:\Users\Fraps\source\repos\Sorting2\Sorting2\shaker_sort.cpp(12,22): error C2039: "swap": не является членом "std".
+C:\Users\Fraps\source\repos\Sorting2\Sorting2\shaker_sort.cpp(23,22): error C2039: "swap": не является членом "std".
+C:\Users\Fraps\source\repos\Sorting2\Sorting2\shaker_sort.cpp(4,6): error C2995: void shaker_sort(T [],int): шаблон функции уже определен
+  Создание кода...
